@@ -1,0 +1,116 @@
+#busqueda{
+	position:absolute;
+	width: 189px;
+	height: 244px;
+	left: 8px;
+	top: 6px;
+	background-color:#06F;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	 border: 1px solid ;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	
+	
+}
+#cuña{
+	position:absolute;
+	left: 9px;
+	top: 258px;
+	width: 188px;
+	height: 231px;
+background-color:#06F;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border:1px solid;
+-moz-border-radius:7px;
+-webkit-border-radius:7px;
+	
+}
+#consulta{
+	position:absolute;
+	left: 203px;
+	top: 8px;
+	width: 707px;
+	height: 243px;
+	color: #00F;
+	overflow:auto;
+	 border: 1px solid ;
+	
+ 
+	
+}
+#carrito{
+	position:absolute;
+	left: 204px;
+	top: 288px;
+	width: 707px;
+	height: 200px;
+	border:1px solid;
+	color: #00F;
+	overflow:auto;
+	
+}
+#codigo{
+	position:absolute;
+	width: 185px;
+	height: 216px;
+	left: 8px;
+	top: 4px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.in{background-color: white; color: black;  font-family: Calibri, Cursive, Arial; font-size: 14px; text-align: center; }
+.td{background-color:#ddeef6; color: black;  font-family: Calibri, Cursive, Arial; font-size: 14px; text-align: center; }
+.tabla{margin: auto; margin-top:0px; position:static;}
+#buscar{
+	position:absolute;
+	left: 11px;
+	top: 204px;
+	width: 73px;
+	height: 34px;
+	
+}
+#agregar{
+	position:static;
+	height: 19px;
+	left: 514px;
+	top: 6px;
+	width: 27px;
+	color:#0C0;
+}
+#quitar{
+	position:static;
+	left: 546px;
+	top: 5px;
+	width: 27px;
+	color:#F00;
+	height: 19px;
+}
+#solicitar{
+	position:absolute;
+	left: 11px;
+	top: 188px;
+	height: 35px;
+	width: 71px;
+}
+#producto{
+	position:static;
+	width: 73px;
+	left: 423px;
+	top: 7px;
+	height: 14px;
+}
+#form3{
+	position:static;
+	top: 2px;
+	left: 1px;
+	width: 705px;
+}
+#barra{
+	position:absolute;
+	left: 205px;
+	width: 706px;
+	top: 258px;
+	height: 32px;
+}

@@ -1,0 +1,14 @@
+#content{
+	width: 610px;
+	height: 350px;
+}
+#tabla{
+	position:absolute;
+	left: 18px;
+	top: 113px;
+	width: 595px;
+	height: 241px;
+	color: #00F;
+	overflow:auto;
+	border: 0px;
+}
